@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freshnese-shop/static/css/main.7205325c.css",
+    "main.js": "/freshnese-shop/static/js/main.4c2f342e.js",
+    "index.html": "/freshnese-shop/index.html",
+    "main.7205325c.css.map": "/freshnese-shop/static/css/main.7205325c.css.map",
+    "main.4c2f342e.js.map": "/freshnese-shop/static/js/main.4c2f342e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7205325c.css",
+    "static/js/main.4c2f342e.js"
+  ]
+}
